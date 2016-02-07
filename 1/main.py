@@ -1,5 +1,6 @@
 import sys
 
+# This is just a simple python version 
 
 def fizzbuzz(n):
     if n % 5 == 0 and n % 3 == 0:
