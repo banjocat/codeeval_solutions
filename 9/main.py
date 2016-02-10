@@ -10,6 +10,10 @@ def solve(line):
 
 
 class Stack:
+    """
+    I could just use pop and push
+    but the challenge was to make your own
+    """
     def __init__(self):
         self.stack = []
     
