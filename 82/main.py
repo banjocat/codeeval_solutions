@@ -22,5 +22,6 @@ def sum_of_nth_power_of_digits(number):
 
 
 
+
 if __name__ == '__main__':
     main()
